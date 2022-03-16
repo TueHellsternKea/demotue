@@ -1,7 +1,7 @@
 # My Demo project
 Demo of GitHub for KEA
 
-## Tis is somthing
+## Somthing
 - Point 1
 - Point 2
 
